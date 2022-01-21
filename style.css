@@ -32,6 +32,9 @@
     padding-left: 6px;
     margin-right: 6px;
 }
+.cont{
+    position: relative;
+}
 /* minus image */
 .minus{
 /*     display: flex; */
