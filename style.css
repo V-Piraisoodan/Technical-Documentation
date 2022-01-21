@@ -37,9 +37,7 @@
 }
 /* minus image */
 .minus{
-/*     display: flex; */
-    position:absolute;
-/*     padding-top: 9px; */
+    position: absolute;
     left: 40px;
     width: 9px;
     height: 8px;
